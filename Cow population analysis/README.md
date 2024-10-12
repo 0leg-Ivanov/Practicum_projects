@@ -7,6 +7,8 @@
 
 ## Используемые библиотеки
 
+Pandas, numpy, seaborn, matplotlib, phik, sklearn, scipy
+
 ## Данные
 
 <i>Информация о стаде фермера на текущий момент (ferma_main.csv):</i>
